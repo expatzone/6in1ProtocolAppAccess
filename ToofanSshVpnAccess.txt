@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.toofansshvpn": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "srpwh9fYrUWpiLMuj22uHjq1KZ0czidN54yIjQZGRvYrsNQNOFFRnfzf1mpEYKbO",
+        "cBlockGet": "kOT656kksZzuqUXVj9G00Jasl3ELvgcVoq+MP5D3u77LfaLtoprjo4zJr2P6k47QDrs4buYFkK5NoeIh",
+        "cBlockPost": "N2xpGG5Gj/tEpR6Cn49Kajlx8Ec3l3R7CXsMr4NmW3eRJCkbnLF45A==",
+        "cBlockNotice": "yCRkskxe4a2c2QeqfnkyTLJI4rvRZaXdqWEtdJr+aeNotXv2GjtuiAnRHuCrf7JMOAFCZnqV3ZRXEP1sBI31uNL6hLoy9W9Hcp0ASgKo4zSEK2TavcZMK+f81BQsGJvg1RsHbkVY9KE="
+    }
+}
