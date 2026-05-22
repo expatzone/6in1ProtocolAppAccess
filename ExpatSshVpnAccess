@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.expatsshvpn": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "JuQxh39wEHW9M6OayX8XeuXDrHEur7ti05jwlBkayAiu7btvfA7iTA==",
+        "cBlockGet": "lESpkZcOaEgegGVp+tJvit25+9CKbih2JE5qPlMZcg+0EFMWaywijM+KXiVsynFm5VgtjfftfqwRpXwEtiA0/g==",
+        "cBlockPost": "1UymgG7q69ADeb66TnS3qiQmmannXgkNr2LoWZ3WClwzaRk4ZW77dQ==",
+        "cBlockNotice": "DBjBHaeEMLi4TlwrgUqjKRXUuFJpQe3isaVucPi7w/9uEYvqmhu1L+Wuzgz1gvZj1nd5L2tMbqCn8Fc2a+iMBji79WZKuNhOEQJ7D96moOuHR3lE5eSPpibPPV/Vu+7xvVl0DQ=="
+    }
+}
